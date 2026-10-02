@@ -1,13 +1,31 @@
-Olá! Eu sou André Luiz 👋
+# Olá! Eu sou André Luiz 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Java em formação
-🚀 Focado em Back-end
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Java em formação  
+🚀 Focado em desenvolvimento Back-end
 
-Tecnologias:
-Java • Spring Boot • PostgreSQL • Git • GitHub • JWT
+## 🛠️ Tecnologias
 
-📌 Projetos em destaque:
-• Banking API
-• Sistema de Eventos
-• Projetos acadêmicos
+- Java
+- Spring Boot
+- PostgreSQL
+- JWT
+- Git e GitHub
+- APIs REST
+
+## 📌 Projetos
+
+### 🏦 Banking API
+API bancária desenvolvida com Java e Spring Boot, utilizando PostgreSQL e autenticação com JWT.
+
+### 📅 Sistema de Eventos
+Projeto acadêmico voltado para gerenciamento de eventos, inscrições e avaliações.
+
+## 🎯 Atualmente
+
+Estou aprimorando meus conhecimentos em desenvolvimento Back-end com Java e Spring Boot, buscando evoluir na construção de APIs REST e integração com bancos de dados.
+
+## 📫 Contato
+
+- LinkedIn
+- GitHub
