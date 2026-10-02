@@ -38,20 +38,24 @@ Atualmente, estou aprimorando meus conhecimentos em **Java e Spring Boot**, com 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AndreLuiz2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuiz2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
- alt="Linguagens mais utilizadas"
-/>
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=AndreLuiz2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuiz2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true"
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 📌 Projetos
 
