@@ -18,9 +18,6 @@
 ### 🏦 Banking API
 API bancária desenvolvida com Java e Spring Boot, utilizando PostgreSQL e autenticação com JWT.
 
-### 📅 Sistema de Eventos
-Projeto acadêmico voltado para gerenciamento de eventos, inscrições e avaliações.
-
 ## 🎯 Atualmente
 
 Estou aprimorando meus conhecimentos em desenvolvimento Back-end com Java e Spring Boot, buscando evoluir na construção de APIs REST e integração com bancos de dados.
