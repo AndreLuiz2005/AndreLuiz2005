@@ -76,7 +76,7 @@ O projeto possui autenticação baseada em **JWT**, armazenamento de senhas util
 * Validação de dados
 * Tratamento global de exceções
 
-🔗 [Ver projeto no GitHub](https://github.com/AndreLuiz2005/banking-api)
+🔗 [Ver projeto no GitHub](https://github.com/AndreLuiz2005/banking-api-repositori)
 
 ## 🎯 Atualmente
 
