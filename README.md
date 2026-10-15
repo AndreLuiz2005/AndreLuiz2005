@@ -1,4 +1,4 @@
-# Olá! Eu sou André Luiz 👋
+# Olá! Eu sou André Luiz 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Desenvolvedor Java em formação
